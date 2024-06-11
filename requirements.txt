@@ -1,0 +1,1 @@
+stellar-sdk==10.0.0
