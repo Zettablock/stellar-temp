@@ -1,1 +1,1 @@
-A temporary repo for stellar sdk debug
+# A temporary repo for debugging stellar sdk
